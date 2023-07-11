@@ -40,9 +40,8 @@ CMD is widely used by IT professionals, developers, and power users who prefer w
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd
 ```
 #
-## Here Are Some CMD Commands With Use:
+### Here Are Some CMD Commands With Use:
 
-#
 1. Change the current directory
 ```
 cd [directory]
