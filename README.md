@@ -55,36 +55,48 @@ dir
 ```
 copy
 ```
+4. Move a file or directory.
 ```
-move - Move a file or directory.
+move
 ```
+5. Delete a file or directory.
 ```
-del - Delete a file or directory.
+del
 ```
+6. Rename a file or directory.
 ```
-ren - Rename a file or directory.
+ren
 ```
+7. Create a new directory.
 ```
-md - Create a new directory.
+md
 ```
+8. Delete an empty directory.
 ```
-rd - Delete an empty directory.
+rd
 ```
+9. Display the contents of a text file.
 ```
-type - Display the contents of a text file.
+type
 ```
+10. Display network configuration information.
 ```
-ipconfig - Display network configuration information.
+ipconfig
 ```
+11. Send a network packet to a specified IP address.
 ```
-ping - Send a network packet to a specified IP address.
+ping
 ```
+12. Trace the route of a network packet to a specified IP address.
 ```
-tracert - Trace the route of a network packet to a specified IP address.
+tracert
 ```
+13. Display network connections and listening ports.
 ```
-netstat - Display network connections and listening ports.
-shutdown - Shut down or restart the computer.
+netstat
+```
+Shut down or restart the computer.
+shutdown - 
 tasklist - List all running tasks.
 taskkill - Kill a running task.
 regedit - Open the Registry Editor.
