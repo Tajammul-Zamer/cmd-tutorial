@@ -37,5 +37,5 @@ CMD is widely used by IT professionals, developers, and power users who prefer w
 #
 ###  Windows-commands by Microsoft, 1925 pages pdf
 ```
-https://learn.microsoft.com/pdf?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fwindows-server%2Fadministration%2Fwindows-commands%2Ftoc.json
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd
 ```
