@@ -7,5 +7,5 @@ CMD uses a set of commands, such as dir to list files, cd to change directories,
  
 CMD is widely used by IT professionals, developers, and power users who prefer working with command-line tools or need to perform advanced system operations efficiently. While Windows 10 introduced PowerShell as an advanced alternative to CMD, the Command Prompt remains a powerful tool for system administration and command-line tasks in Windows.
  
-## To open the Command Prompt (CMD) in Windows, you can follow these steps:
+### To open the Command Prompt (CMD) in Windows, you can follow these steps:
 #
