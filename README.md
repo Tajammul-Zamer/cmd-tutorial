@@ -46,3 +46,93 @@ https://learn.microsoft.com/en-us/windows-server/administration/windows-commands
 ```
 cd [directory]
 ```
+ 
+2. List the contents of a directory.
+ ```
+dir
+```
+3. Copy a file or directory.
+```
+copy
+```
+```
+move - Move a file or directory.
+```
+```
+del - Delete a file or directory.
+```
+```
+ren - Rename a file or directory.
+```
+```
+md - Create a new directory.
+```
+```
+rd - Delete an empty directory.
+```
+```
+type - Display the contents of a text file.
+```
+```
+ipconfig - Display network configuration information.
+```
+```
+ping - Send a network packet to a specified IP address.
+```
+```
+tracert - Trace the route of a network packet to a specified IP address.
+```
+```
+netstat - Display network connections and listening ports.
+shutdown - Shut down or restart the computer.
+tasklist - List all running tasks.
+taskkill - Kill a running task.
+regedit - Open the Registry Editor.
+systeminfo - Display system information.
+chkdsk - Check the disk for errors.
+sfc /scannow - Scan for and repair system file corruption.
+msconfig - Open the System Configuration Utility.
+dxdiag - Run the DirectX Diagnostic Tool.
+whoami - Display the current user account.
+net user - Manage user accounts.
+net group - Manage user groups.
+net view - List the computers on the network.
+ipconfig /flushdns - Flush the DNS cache.
+arp -d - Delete all entries from the ARP cache.
+nslookup - Query the DNS server for information about a domain name.
+tracert - Trace the route of a network packet to a specified IP address.
+netstat -an - Display all active network connections.
+taskkill /f /im processname - Kill a running process by name.
+shutdown /s - Shut down the computer.
+shutdown /r - Restart the computer.
+shutdown /a - Abort a pending shutdown or restart.
+systeminfo - Display system information.
+chkdsk /f - Check the disk for errors and fix them if possible.
+sfc /scannow - Scan for and repair system file corruption.
+msconfig - Open the System Configuration Utility.
+dxdiag - Run the DirectX Diagnostic Tool.
+whoami - Display the current user account.
+net user - Manage user accounts.
+net group - Manage user groups.
+net view - List the computers on the network.
+net use - Map a network drive.
+net share - Share a network resource.
+netbios - Configure NetBIOS settings.
+ipconfig /all - Display detailed network configuration information.
+route - Display and manage routing tables.
+arp - Display and manage ARP cache entries.
+nslookup - Query the DNS server for information about a domain name.
+telnet - Connect to a remote computer using the Telnet protocol.
+ftp - Transfer files to and from a remote computer using the FTP protocol.
+ping - Send a network packet to a specified IP address.
+tracert - Trace the route of a network packet to a specified IP address.
+netstat - Display network connections and listening ports.
+tasklist - List all running tasks.
+taskkill - Kill a running task.
+regedit - Open the Registry Editor.
+systeminfo - Display system information.
+chkdsk - Check the disk for errors.
+sfc /scannow - Scan for and repair system file corruption.
+msconfig - Open the System Configuration Utility.
+dxdiag - Run the DirectX Diagnostic Tool.
+whoami - Display the current user account.
