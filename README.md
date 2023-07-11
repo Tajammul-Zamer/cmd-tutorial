@@ -41,8 +41,8 @@ https://learn.microsoft.com/en-us/windows-server/administration/windows-commands
 ```
 #
 ## Here Are Some CMD Commands With Use:
-1.
+ 
+1.Change the current directory
 ```
-C:\Users\Pc>cd
+cd [directory]
 ```
-Change the current directory.
