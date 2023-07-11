@@ -41,6 +41,8 @@ https://learn.microsoft.com/en-us/windows-server/administration/windows-commands
 ```
 #
 ## Here Are Some CMD Commands With Use:
-First item a
+1.
 ```
-C:\Users\Pc>help
+C:\Users\Pc>cd
+```
+Change the current directory.
