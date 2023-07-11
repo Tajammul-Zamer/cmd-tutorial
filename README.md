@@ -42,7 +42,7 @@ https://learn.microsoft.com/en-us/windows-server/administration/windows-commands
 #
 ## Here Are Some CMD Commands With Use:
  
-1.Change the current directory
+1. Change the current directory
 ```
 cd [directory]
 ```
