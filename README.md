@@ -35,7 +35,10 @@ CMD is widely used by IT professionals, developers, and power users who prefer w
 - In the "Create new task" dialog, type "cmd" or "cmd.exe" (without the quotes).
 - Press Enter or click on the "OK" button.
 #
-###  Windows-commands by Microsoft, 1925 pages pdf
+###  Windows-commands by Microsoft Learn, 1925 pages pdf
 ```
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd
 ```
+#
+### Here Are Some CMD Commands:
+
