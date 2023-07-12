@@ -103,195 +103,195 @@ shutdown -
 ```
 tasklist
 ```
- - Kill a running task.
+16 Kill a running task.
 ```
 taskkill
 ```
- - Open the Registry Editor.
+17 Open the Registry Editor.
 ```
 regedit
 ```
- - Display system information.
+18 Display system information.
 ```
 systeminfo
 ```
- - Check the disk for errors.
+19 Check the disk for errors.
 ```
 chkdsk
 ```
- - Scan for and repair system file corruption.
+21 Scan for and repair system file corruption.
 ```
 sfc /scannow
 ```
- - Open the System Configuration Utility.
+22 Open the System Configuration Utility.
 ```
 msconfig
 ```
- - Run the DirectX Diagnostic Tool.
+23 Run the DirectX Diagnostic Tool.
 ```
 dxdiag
 ```
- - Display the current user account.
+24 Display the current user account.
 ```
 whoami
 ```
- - Manage user accounts.
+25 Manage user accounts.
 ```
 net user
 ```
- - Manage user groups.
+26 Manage user groups.
 ```
 net group
 ```
- - List the computers on the network.
+27 List the computers on the network.
 ```
 net view
 ```
- - Flush the DNS cache.
+28 Flush the DNS cache.
 ```
 ipconfig /flushdns
 ```
- - Delete all entries from the ARP cache.
+29 Delete all entries from the ARP cache.
 ```
 arp -d
 ```
- - Query the DNS server for information about a domain name.
+30 Query the DNS server for information about a domain name.
 ```
 nslookup
 ```
- - Trace the route of a network packet to a specified IP address.
+31 Trace the route of a network packet to a specified IP address.
 ```
 tracert
 ```
- - Display all active network connections.
+32 Display all active network connections.
 ```
 netstat -an
 ```
- - Shut down the computer.
+33 Shut down the computer.
 ```
 shutdown /s
 ```
- - Restart the computer.
+34 Restart the computer.
 ```
 shutdown /r
 ```
- - Abort a pending shutdown or restart.
+35 Abort a pending shutdown or restart.
 ```
 shutdown /a
 ```
- - Display system information.
+36 Display system information.
 ```
 systeminfo
 ```
- - Check the disk for errors and fix them if possible.
+37 Check the disk for errors and fix them if possible.
 ```
 chkdsk /f
 ```
- - Scan for and repair system file corruption.
+38 Scan for and repair system file corruption.
 ```
 sfc /scannow
 ```
- - Open the System Configuration Utility.
+39 Open the System Configuration Utility.
 ```
 msconfig
 ```
- - Run the DirectX Diagnostic Tool.
+40 Run the DirectX Diagnostic Tool.
 ```
 dxdiag
 ```
- - Display the current user account.
+41 Display the current user account.
 ```
 whoami
 ```
- - Manage user accounts.
+42 Manage user accounts.
 ```
 net user
 ```
- - List the computers on the network.
+43 List the computers on the network.
 ```
 net view
 ```
- - Map a network drive.
+44 Map a network drive.
 ```
 net use
 ```
- - Share a network resource.
+45 Share a network resource.
 ```
 net share
 ```
- - Configure NetBIOS settings.
+46 Configure NetBIOS settings.
 ```
 netbios
 ```
- - Display detailed network configuration information.
+47 Display detailed network configuration information.
 ```
 ipconfig /all
 ```
- - Display and manage routing tables.
+48 Display and manage routing tables.
 ```
 route
 ```
- - Display and manage ARP cache entries.
+49 Display and manage ARP cache entries.
 ```
 arp
 ```
- - Query the DNS server for information about a domain name.
+50 Query the DNS server for information about a domain name.
 ```
 nslookup
 ```
- - Connect to a remote computer using the Telnet protocol.
+51 Connect to a remote computer using the Telnet protocol.
 ```
 telnet
 ```
- - Transfer files to and from a remote computer using the FTP protocol.
+52 Transfer files to and from a remote computer using the FTP protocol.
 ```
 ftp
 ```
- - Send a network packet to a specified IP address.
+53 Send a network packet to a specified IP address.
 ```
 ping
 ```
- - Trace the route of a network packet to a specified IP address.
+54 Trace the route of a network packet to a specified IP address.
 ```
 tracert
 ```
- - Display network connections and listening ports.
+55 Display network connections and listening ports.
 ```
 netstat
 ```
- - List all running tasks.
+56 List all running tasks.
 ```
 tasklist
 ```
- - Kill a running task.
+57 Kill a running task.
 ```
 taskkill
 ```
- - Open the Registry Editor.
+58 Open the Registry Editor.
 ```
 regedit
 ```
- - Display system information.
+59 Display system information.
 ```
 systeminfo
 ```
- - Check the disk for errors.
+60 Check the disk for errors.
 ```
 chkdsk
 ```
- - Scan for and repair system file corruption.
+61 Scan for and repair system file corruption.
 ```
 sfc /scannow
 ```
- - Open the System Configuration Utility.
+62 Open the System Configuration Utility.
 ```
 msconfig
 ```
- - Run the DirectX Diagnostic Tool.
+63 Run the DirectX Diagnostic Tool.
 ```
 dxdiag
 ```
- - Display the current user account.
+64 Display the current user account.
 ```
 whoami
 ```
