@@ -95,56 +95,203 @@ tracert
 ```
 netstat
 ```
-Shut down or restart the computer.
-shutdown - 
-tasklist - List all running tasks.
-taskkill - Kill a running task.
-regedit - Open the Registry Editor.
-systeminfo - Display system information.
-chkdsk - Check the disk for errors.
-sfc /scannow - Scan for and repair system file corruption.
-msconfig - Open the System Configuration Utility.
-dxdiag - Run the DirectX Diagnostic Tool.
-whoami - Display the current user account.
-net user - Manage user accounts.
-net group - Manage user groups.
-net view - List the computers on the network.
-ipconfig /flushdns - Flush the DNS cache.
-arp -d - Delete all entries from the ARP cache.
-nslookup - Query the DNS server for information about a domain name.
-tracert - Trace the route of a network packet to a specified IP address.
-netstat -an - Display all active network connections.
-taskkill /f /im processname - Kill a running process by name.
-shutdown /s - Shut down the computer.
-shutdown /r - Restart the computer.
-shutdown /a - Abort a pending shutdown or restart.
-systeminfo - Display system information.
-chkdsk /f - Check the disk for errors and fix them if possible.
-sfc /scannow - Scan for and repair system file corruption.
-msconfig - Open the System Configuration Utility.
-dxdiag - Run the DirectX Diagnostic Tool.
-whoami - Display the current user account.
-net user - Manage user accounts.
-net group - Manage user groups.
-net view - List the computers on the network.
-net use - Map a network drive.
-net share - Share a network resource.
-netbios - Configure NetBIOS settings.
-ipconfig /all - Display detailed network configuration information.
-route - Display and manage routing tables.
-arp - Display and manage ARP cache entries.
-nslookup - Query the DNS server for information about a domain name.
-telnet - Connect to a remote computer using the Telnet protocol.
-ftp - Transfer files to and from a remote computer using the FTP protocol.
-ping - Send a network packet to a specified IP address.
-tracert - Trace the route of a network packet to a specified IP address.
-netstat - Display network connections and listening ports.
-tasklist - List all running tasks.
-taskkill - Kill a running task.
-regedit - Open the Registry Editor.
-systeminfo - Display system information.
-chkdsk - Check the disk for errors.
-sfc /scannow - Scan for and repair system file corruption.
-msconfig - Open the System Configuration Utility.
-dxdiag - Run the DirectX Diagnostic Tool.
-whoami - Display the current user account.
+14. Shut down or restart the computer.
+```
+shutdown -
+```
+15. List all running tasks.
+```
+tasklist
+```
+ - Kill a running task.
+```
+taskkill
+```
+ - Open the Registry Editor.
+```
+regedit
+```
+ - Display system information.
+```
+systeminfo
+```
+ - Check the disk for errors.
+```
+chkdsk
+```
+ - Scan for and repair system file corruption.
+```
+sfc /scannow
+```
+ - Open the System Configuration Utility.
+```
+msconfig
+```
+ - Run the DirectX Diagnostic Tool.
+```
+dxdiag
+```
+ - Display the current user account.
+```
+whoami
+```
+ - Manage user accounts.
+```
+net user
+```
+ - Manage user groups.
+```
+net group
+```
+ - List the computers on the network.
+```
+net view
+```
+ - Flush the DNS cache.
+```
+ipconfig /flushdns
+```
+ - Delete all entries from the ARP cache.
+```
+arp -d
+```
+ - Query the DNS server for information about a domain name.
+```
+nslookup
+```
+ - Trace the route of a network packet to a specified IP address.
+```
+tracert
+```
+ - Display all active network connections.
+```
+netstat -an
+```
+ - Shut down the computer.
+```
+shutdown /s
+```
+ - Restart the computer.
+```
+shutdown /r
+```
+ - Abort a pending shutdown or restart.
+```
+shutdown /a
+```
+ - Display system information.
+```
+systeminfo
+```
+ - Check the disk for errors and fix them if possible.
+```
+chkdsk /f
+```
+ - Scan for and repair system file corruption.
+```
+sfc /scannow
+```
+ - Open the System Configuration Utility.
+```
+msconfig
+```
+ - Run the DirectX Diagnostic Tool.
+```
+dxdiag
+```
+ - Display the current user account.
+```
+whoami
+```
+ - Manage user accounts.
+```
+net user
+```
+ - List the computers on the network.
+```
+net view
+```
+ - Map a network drive.
+```
+net use
+```
+ - Share a network resource.
+```
+net share
+```
+ - Configure NetBIOS settings.
+```
+netbios
+```
+ - Display detailed network configuration information.
+```
+ipconfig /all
+```
+ - Display and manage routing tables.
+```
+route
+```
+ - Display and manage ARP cache entries.
+```
+arp
+```
+ - Query the DNS server for information about a domain name.
+```
+nslookup
+```
+ - Connect to a remote computer using the Telnet protocol.
+```
+telnet
+```
+ - Transfer files to and from a remote computer using the FTP protocol.
+```
+ftp
+```
+ - Send a network packet to a specified IP address.
+```
+ping
+```
+ - Trace the route of a network packet to a specified IP address.
+```
+tracert
+```
+ - Display network connections and listening ports.
+```
+netstat
+```
+ - List all running tasks.
+```
+tasklist
+```
+ - Kill a running task.
+```
+taskkill
+```
+ - Open the Registry Editor.
+```
+regedit
+```
+ - Display system information.
+```
+systeminfo
+```
+ - Check the disk for errors.
+```
+chkdsk
+```
+ - Scan for and repair system file corruption.
+```
+sfc /scannow
+```
+ - Open the System Configuration Utility.
+```
+msconfig
+```
+ - Run the DirectX Diagnostic Tool.
+```
+dxdiag
+```
+ - Display the current user account.
+```
+whoami
+```
